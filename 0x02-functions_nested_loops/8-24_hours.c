@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * jack_bauer - print minutes of  24 hours
  *  n from 00:00 to 23:59
