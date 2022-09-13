@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * jack_bauer - print minutes of  24 hours
- *  n from 00:00 to 23:59
+ *  n from 00:00 to 23:59,
  *  Return: 0
  */
 void jack_bauer(void)
@@ -26,6 +26,6 @@ void jack_bauer(void)
 	}
 	hours++;
 	minutes = 0;
-	}
+}
 }
 
