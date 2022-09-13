@@ -1,13 +1,13 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * abs - function that computesabsolute power of integer
+ * _abs - function that computesabsolute power of integer
  * @c: int used for function argument
  * Return: 0
  */
 int _abs(int c)
 {
-	if (c > 0 || c == 0);
+	if (c > 0 || c == 0)
 	{
 	return (c);
 	}
