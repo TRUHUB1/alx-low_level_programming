@@ -17,4 +17,4 @@ for (count = 0; s[count] != '\0'; count++);
 
 }
 return (count);
-};
+}
