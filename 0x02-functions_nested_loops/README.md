@@ -1,4 +1,4 @@
-##Functions_nested_loops##
+# Functions_nested_loops
 1.*Writes a program that prints _putchar, followed by a new line.*
 2.*Writes a function that prints the alphabet, in lowercase, followed by a new line.*
 3.*Writes a function that prints 10 times the alphabet, in lowercase, followed by a new line.*
