@@ -1,6 +1,11 @@
 # 0x0F. C - Function pointers
+In this repo, you get to see:
 
-Write a program that prints the opcodes of its own main function.Write a program that prints the opcodes of its own main function.Write a program that prints the opcodes of its own main function.# Mandatory Tasks
+	- What are function pointers and how to use them;
+	- What does a function pointer exactly hold;
+	- Where does a function pointer point to in the virtual memory.
+
+## Mandatory Tasks
 
 ### 0. What's my name
 
@@ -23,3 +28,5 @@ Write a program that prints the opcodes of its own main function.Write a program
 ### 4. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker
 
 * Write a `program` that prints the `opcodes` of its own **main** *function*.
+
+**Great!** You've completed the quiz successfully! Keep going! (<u>Show quiz<\u>)[quiz]
