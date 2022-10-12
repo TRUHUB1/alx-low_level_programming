@@ -27,6 +27,6 @@ In this repo, you get to see:
 
 ### 4. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker
 
-* Write a `program` that prints the `opcodes` of its own **main** *function*.
+* Write a `program` that prints the `opcodes` of its own **main** *function*.	
 
-	``` **Great!** You've completed the quiz successfully! Keep going! (<ins>Show quiz</ins>)
+`**Great!** You've completed the quiz successfully! Keep going! (<ins>Show quiz</ins>)`
