@@ -29,4 +29,4 @@ In this repo, you get to see:
 
 * Write a `program` that prints the `opcodes` of its own **main** *function*.	
 
-```**Great!** You've completed the quiz successfully! Keep going! (<ins>Show quiz</ins>)```
+> **Great!** You've completed the quiz successfully! Keep going! (<ins>Show quiz</ins>)
